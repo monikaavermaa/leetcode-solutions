@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "hash-table",
+    "name": "Hash Table",
+    "tagId": "6"
+  },
+  "updatedAt": "2026-11-14T14:01:06.440Z",
+  "problems": [
+    {
+      "frontendId": "1",
+      "title": "Two Sum",
+      "slug": "two-sum",
+      "problemName": "0001-two-sum",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/two-sum/",
+      "folderPath": "0001-two-sum/",
+      "readmePath": "0001-two-sum/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0001-two-sum.cpp",
+          "path": "0001-two-sum/0001-two-sum.cpp",
+          "sha": "87a3209a1e00e389b77565fbb0f10b3ab7a6ee27",
+          "lastSyncedAt": "2026-11-14T14:01:06.440Z"
+        }
+      ]
+    }
+  ]
+}
